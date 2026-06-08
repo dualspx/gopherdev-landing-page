@@ -58,5 +58,5 @@ Write-Host "  " -NoNewline; Write-Host "Available for projects · Based in KL, o
 Write-Host ""
 Write-Host "  ─────────────────────────────────────────────────────────" -ForegroundColor $amber
 Write-Host ""
-Write-Host "  " -NoNewline; Write-Host "rendered in your terminal from gopherlogic.dev/resume.ps1" -ForegroundColor $gray
+Write-Host "  " -NoNewline; Write-Host "rendered in your terminal from https://gopherlogic.dev/resume.ps1" -ForegroundColor $gray
 Write-Host ""

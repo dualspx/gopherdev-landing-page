@@ -9,12 +9,12 @@ const COMMANDS = [
   {
     label: "Linux / macOS",
     lang: "bash",
-    command: "curl gopherlogic.dev/resume.sh | bash",
+    command: "curl https://gopherlogic.dev/resume.sh | bash",
   },
   {
     label: "Windows (PowerShell)",
     lang: "powershell",
-    command: "iwr gopherlogic.dev/resume.ps1 | iex",
+    command: "iwr https://gopherlogic.dev/resume.ps1 | iex",
   },
 ];
 
