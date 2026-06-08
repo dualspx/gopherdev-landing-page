@@ -28,6 +28,9 @@ export const metadata: Metadata = {
   title: "GopherLogic — Custom Software Consultancy",
   description:
     "We build the system your business actually needs. Independent software consultancy based in Malaysia — architecture, development, and deployment end to end.",
+  icons: {
+    icon: "/images/pc-icon.jpg",
+  },
   openGraph: {
     title: "GopherLogic — Custom Software Consultancy",
     description:
