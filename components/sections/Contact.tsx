@@ -102,12 +102,12 @@ export function Contact() {
 
         <FadeUp delay={0.3}>
           <a
-            href="mailto:swkgopherdev.com"
+            href="mailto:swkgopherdev@google.com"
             className="inline-flex items-center gap-2 mt-8 font-mono text-sm text-[var(--accent)] hover:underline underline-offset-4"
             style={{ fontFamily: "var(--font-mono)" }}
           >
             <Mail className="h-4 w-4" />
-            swkgopherdev.com
+            swkgopherdev@google.com
           </a>
         </FadeUp>
       </div>
