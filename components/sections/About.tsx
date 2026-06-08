@@ -41,10 +41,13 @@ export function About() {
             style={{ fontFamily: "var(--font-mono)" }}
           >
             <span className="text-xs uppercase tracking-[0.2em] text-[var(--muted-foreground)]">
-              Go · React · PostgreSQL
+              Go · React · Next.js · PostgreSQL
             </span>
             <span className="text-xs uppercase tracking-[0.2em] text-[var(--muted-foreground)]">
               Docker · Kubernetes · Cloudflare
+            </span>
+            <span className="text-xs uppercase tracking-[0.2em] text-[var(--muted-foreground)]">
+              Python · R · Machine Learning · AI · Data Analysis
             </span>
           </div>
         </FadeUp>

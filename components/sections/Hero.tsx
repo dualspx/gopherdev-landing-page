@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { FadeUp } from "@/components/shared/FadeUp";
 
-const TECH = ["Go", "React", "PostgreSQL", "Docker", "Kubernetes", "Cloudflare"];
+const TECH = ["Go", "React", "Next.js", "PostgreSQL", "Docker", "Kubernetes", "Cloudflare", "Python", "R", "Machine Learning", "AI", "Data Analysis"];
 
 export function Hero() {
   return (
