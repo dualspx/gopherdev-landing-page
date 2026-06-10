@@ -16,7 +16,7 @@ Write-Host "  |   " -ForegroundColor $amber -NoNewline
 Write-Host "Abdul Samad" -ForegroundColor $white -NoNewline
 Write-Host "                                        |" -ForegroundColor $amber
 Write-Host "  |   " -ForegroundColor $amber -NoNewline
-Write-Host "Full-Stack & Data Engineer  Kuala Lumpur, MY" -ForegroundColor $dim -NoNewline
+Write-Host "Full-Stack & Data Engineer  Selangor or Sarawak, MY" -ForegroundColor $dim -NoNewline
 Write-Host "        |" -ForegroundColor $amber
 Write-Host "  |   " -ForegroundColor $amber -NoNewline
 Write-Host "swkgopherdev@gmail.com  gopherlogic.dev" -ForegroundColor $gray -NoNewline
